@@ -1,6 +1,3 @@
-Aqui está a versão atualizada do `README.md`, incluindo as informações sobre autenticação com **jsonwebtoken** e **bcrypt**, além de explicar que é o back-end de um site de restaurante criado para fins de estudos:
-
-
 # 🍴 Back-End para Site de Restaurante
 
 Este repositório contém o código do **back-end** de um site para um restaurante. Foi desenvolvido para fins de estudo, utilizando tecnologias modernas, como **Node.js**, **Express**, **MongoDB**, e implementando funcionalidades de autenticação com **JSON Web Token (JWT)** e criptografia de senhas com **bcrypt**.
